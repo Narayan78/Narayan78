@@ -14,6 +14,8 @@ Flutter Developer
 
 ### Skills
 
-<p align="left">
-  (https://skillicons.dev/icons?i=flutter,python,figma,html,css,androidstudio)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
