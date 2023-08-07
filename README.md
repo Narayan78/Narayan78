@@ -15,5 +15,5 @@ Flutter Developer
 ### Skills
 
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=flutter,python,figma,html,css,androidstudio)](https://skillicons.dev)
+  (https://skillicons.dev/icons?i=flutter,python,figma,html,css,androidstudio)
 </p>
