@@ -16,6 +16,6 @@ Flutter Developer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,figma,c,python" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,figma,c,python,html,css" />
   </a>
 </p>
