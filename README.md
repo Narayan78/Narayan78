@@ -6,7 +6,7 @@ Flutter Developer
 
 
 * 🌍  I'm based in Kathmandu, Nepal
-* 🖥️  See my portfolio at [Linkedin](www.linkedin.com/in/narayan-kandel-867150232)
+* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/narayan-kandel-867150232)
 * ✉️  You can contact me at [kandelnarayan82@gmail.com](mailto:kandelnarayan82@gmail.com)
 * 🧠  I'm learning Flutter Framework
 * 🤝  I'm open to collaborating on Flutter Projects
